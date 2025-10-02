@@ -1,2 +1,5 @@
-# test-repo
+# Mi proyecto
+
 Respositorio de test
+
+## Instalación
